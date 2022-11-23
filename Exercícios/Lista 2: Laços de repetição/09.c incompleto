@@ -1,0 +1,14 @@
+//Crie um programa em linguagem C, utilizando o comando for, que imprima uma mensagem pedindo para o usuário digitar 9 números reais. Quando o usuário digitar os 9 números o programa deve terminar
+
+#include <stdio.h>
+int main(void){
+  float x=0;
+  int i;
+printf("Digite 9 números reais:\n");
+for(i=0;i<9;i++){
+  scanf("%f", &x);
+  }
+ 
+  
+  return 0;
+}
