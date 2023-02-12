@@ -1,4 +1,4 @@
-/*Crie um programa em linguagem C que leia o arquivo real.dat, contendo um único número real,
+No/*Crie um programa em linguagem C que leia o arquivo real.dat, contendo um único número real,
 e imprima na tela o número contido neste arquivo.*/
 #include <stdio.h>
 
